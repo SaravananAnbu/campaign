@@ -1,6 +1,6 @@
 {
   "name": "campaign",
-  "version": "0.1.117",
+  "version": "0.1.118",
   "main": "dist/campaign.min.js",
   "scripts": {
     "lint": "eslint src",
