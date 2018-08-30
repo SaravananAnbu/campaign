@@ -1,4 +1,6 @@
 import grapesjs from 'grapesjs';
+import 'grapesjs-mjml';
+import 'grapesjs-campaign';
 
 module.exports = (() => {
   const defaultConfig = {
