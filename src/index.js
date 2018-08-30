@@ -7,7 +7,9 @@ module.exports = (() => {
     fromElement: true,
     plugins: ['gjs-mjml','gjs-campaign'],
     pluginOpts: {
-      'gjs-mjml': {},
+      'gjs-mjml': {
+        resetDevices: 0
+      },
       'gjs-campaign':{}
     }
   }
